@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1574081758 source:d:\dados\desktop\c++\tmabestudodirigido3\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
